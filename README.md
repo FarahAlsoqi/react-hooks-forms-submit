@@ -16,7 +16,7 @@ to run `npm install && npm start` to see the code in the browser.
 
 Now that we've learned how to control a form with state, we want to set up a way
 to submit our form. For this, we add the `onSubmit` event listener to our `form`
-element:
+element: 
 
 ```jsx
 // src/components/Form.js
